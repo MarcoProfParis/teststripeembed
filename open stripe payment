@@ -1,0 +1,16 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stripe Pricing Table</title>
+    <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+   
+</head>
+<body>
+    <h1>Our Pricing Plans</h1>
+
+<stripe-pricing-table pricing-table-id="prctbl_1PcCgPLs1TDYQP49tESl6Yio"
+publishable-key="pk_test_51LRCoLLs1TDYQP49kqswyvskmILtO4jMqm2Z3RSmpS9QSiQKYMRdkEZcXbkSXuhn20J3tehP7UI2iRDFlLeYwyaL00i1awuKzL">
+</stripe-pricing-table>
+</body>
+</html>
